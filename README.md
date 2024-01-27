@@ -3,10 +3,11 @@
 
 ![Danielxx1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielxx1&show_icons=true&theme=radical)
 
----ruby
-class programmer    
-    def initializer[]
----
+```ruby 
+class Programmer
+
+	def initialize() 
+```
 
 ## Tecnologias
 
